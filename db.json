@@ -2,4 +2,10 @@
 "manual": {
  "info" : "Use as setas do teclado para fugir do COVID-19 até a pandemia acabar"
   }
+ "stats":{
+ 	"id": "1",
+	"nameuser": "eduardo",
+	"deaths": "6",
+	"wins": "16" 
+ 	}
 }
